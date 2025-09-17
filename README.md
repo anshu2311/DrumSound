@@ -73,11 +73,6 @@ If hosted online (e.g., GitHub Pages, Netlify, or Vercel), you can add your live
 
 ---
 
-## 📸 Preview
-(Add a screenshot or GIF of your project running here)
-
----
-
 ## 📜 License
 This project is open-source and free to use.  
 You can improve and customize it as you like.
