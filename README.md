@@ -1,11 +1,11 @@
-# 🥁 Drum Kit Website
+## Drum Kit Website
 
 A fun and interactive drum kit built with **HTML**, **CSS**, and **JavaScript**.  
 Click on the buttons or press the corresponding keys on your keyboard (`w`, `a`, `s`, `d`, `j`, `k`, `l`) to play different drum sounds!
 
 ---
 
-## 🚀 Features
+##  Features
 - Play drum sounds using **mouse clicks** or **keyboard keys**.
 - Smooth button animation when a key is pressed.
 - Visual assets (images) included for better UI experience.
@@ -14,7 +14,7 @@ Click on the buttons or press the corresponding keys on your keyboard (`w`, `a`,
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 drum-kit/
 │
@@ -43,7 +43,7 @@ drum-kit/
 
 ---
 
-## 🎹 Controls
+## Controls
 - **Keyboard Keys:**
   - `w` → Tom-1  
   - `a` → Tom-2  
@@ -58,20 +58,16 @@ drum-kit/
 
 ---
 
-## 🛠️ How to Run
+##  How to Run
 1. Clone this repository or download the source code.
    ```bash
    git clone https://github.com/your-username/drum-kit.git
    ```
 2. Open `index.html` in your browser.  
-3. Start drumming! 🥁
+3. Start drumming! 
 
 ---
 
-## 🌟 Demo
-If hosted online (e.g., GitHub Pages, Netlify, or Vercel), you can add your live demo link here.
-
----
 
 ## 📜 License
 This project is open-source and free to use.  
